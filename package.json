@@ -1,0 +1,22 @@
+{
+  "name": "test-task_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "npx cypress run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "cypress": "^12.5.1",
+    "cypress-drag-drop": "^1.1.1",
+    "cypress-multi-reporters": "^1.6.2",
+    "mocha-junit-reporter": "^2.2.0"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}

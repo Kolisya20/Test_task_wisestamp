@@ -1,0 +1,6 @@
+{
+    "orderBeforeDeletingAddon": ["Styled Signoff", "Green footer", "Styled Signoff"],
+    "orderAfterDeletingAddon": ["Styled Signoff", "Green footer"],
+    "mainAddon": "Styled Signoff",
+    "additionalAddon": "Green footer"
+}
