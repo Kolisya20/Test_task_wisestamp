@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cy:run": "npx cypress run test"
+    "cy:run": "npx cypress run test --browser chrome --headed"
   },
   "author": "",
   "license": "ISC",
@@ -13,10 +13,11 @@
     "@4tw/cypress-drag-drop": "^2.2.3",
     "cypress": "^12.5.1",
     "cypress-drag-drop": "^1.1.1",
+    "cypress-mochawesome-reporter": "^3.3.0",
     "cypress-multi-reporters": "^1.6.2",
     "mocha-junit-reporter": "^2.2.0"
   },
   "dependencies": {
-    "npx": "^10.2.2"
+    "npx": "^3.0.0"
   }
 }

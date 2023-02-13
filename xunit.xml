@@ -1,8 +1,0 @@
-<testsuite name="Mocha Tests" tests="6" failures="0" errors="0" skipped="0" timestamp="Sat, 11 Feb 2023 21:48:10 GMT" time="4.315">
-<testcase classname="example to-do app" name="displays two todo items by default" time="0.747"/>
-<testcase classname="example to-do app" name="can add new todo items" time="0.493"/>
-<testcase classname="example to-do app" name="can check off an item as completed" time="0.217"/>
-<testcase classname="example to-do app with a checked task" name="can filter for uncompleted tasks" time="0.313"/>
-<testcase classname="example to-do app with a checked task" name="can filter for completed tasks" time="0.317"/>
-<testcase classname="example to-do app with a checked task" name="can delete all completed tasks" time="0.331"/>
-</testsuite>
